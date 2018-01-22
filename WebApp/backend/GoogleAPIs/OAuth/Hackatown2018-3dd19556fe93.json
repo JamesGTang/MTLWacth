@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "hackatown2018",
+  "private_key_id": "3dd19556fe932a61df2565aff837853d1be9da2b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDG5Myh7rpvQ+/Z\niQOTgaq6GUEvslExhyeUuAppDw2/r03iUBFAXbXwPFAWwzsj1fGEwBTA0AoUH+/i\nf7nohrY/zhZgA11uocc4xi4WglOI5iNP8NDX65vFmVskWVM9rld8lvCTBeWltXkr\njUroQAXVoWZDto2qJBcSdqBOayrb4T9+P31zeQsnXSjxmlH0SejtizAs/Mq3qUtX\nKY1br/IYedCfyhbyikpXE0uQHxdY0JefsJcANEQ6Iutogk3QIbCg8xB92JSQ9R8Z\nCJWooyeo09hjS/A2w8Hdxxi65AOvvskjjkuI5uxZUgHYqS40snfbzcS+QVA0MdYL\neCrFCHiXAgMBAAECggEATIzzVcAUcY6sWgWqIrPdihL+S+VN6soiKdNL7nOkzwoh\n5+D5QtTOmdAc4yXxNTG662Uil7N6rZQ9N+gBHcX7j0M6yWmCJHqPuwJL6s3uaNpq\n7PG679/27G7B7ZOTvkHD2mgd3/h9EvJt2J1hH1LE7Bxax+UTUVDisHCH8qa8sDOr\ntkMJRM2eblSMIZ5egHEfcO18I8JJYSNWxiXH0QxPNruA2NnNsOmzCiWx847Czw9z\nmlr17wiyZ7F2BkHMvl3omXnRvRmJCaMNjf0sFUc3YcsoKZhK5KrS0bCXMGIrHfiN\nzLnG/wB4ZMyoTE+tWx0PlD7tLE9ksdabvDSIDZUIAQKBgQDwl4v08zYiJ3tqZCAG\ndPadtpKMsXJ71uFg8lpIXvGw2udmmZc7FJ7Zq8BYFOrDrq3wGxjht1gEXQWYjhU6\nvYqOoKjUi+zaksLW7vzo/Kzb29CmdvattdVoNLhaBWEhr+bepa6bFIyK8tcs+sat\nJC3OUyi8m9a9bejstCa3JZZ5gQKBgQDToZ6CVP8+dIZ1f3y6vkDdQl6Qoh9oGBs4\nUtHjZ+AcBgI4c9zkCi0A6MeAf/zOxklGZLLS0YVwqA59E4GV9Aj5p5prdB7Qxp6F\nDE0tAyEeUqEtAN7BHRZiI8k8OQeEDuhw5JYsGlDjF6v7gSnGNlRTS0c9cfBJhsI8\n3BCysB6OFwKBgQCdmJd794iBLN2h3j5AHIOi4YHzmRTF3Aa8C2RqPY8R6wJi6b7v\nW12GdgPDbsgtMBIN0qIk0IVeLlTJDmEHnjrRnJmayKF4t2PbiKawMztDtSRitlB1\nj0NgRBByH0311BRlyZ+rQ/Wf2txqQUa9CZLbsQthKK+sW/+UdZlapMuBgQKBgQCH\nBnkxwrVPzdz0HrEgHL8Z7HyVXzsWmTrUxtKvetkcSCEmj5YB0RRBnkObkw1jiFO8\nHAeURqYS6MbFuqpVWGxZjTwTDvWSUwdU8DJVY8e/pwy6v/Ff2QUs/JQqXmCTO0fG\nr7G41dmB6tqKDzDuDD/lHQSJCac74kUPu4DT4Va9ZQKBgQCleoU7Tzj5ui9kLTUV\nIwYjj180uloJa1/0pGTzYHbk29WT2qLPhSU76XNdVQyUrdnK1LlNa4772eZt1UZH\ndIZG4iVyrjynZFKON+cJxdwhjrsP72k491nBNkYSZIrVZX0gleeXx2K8oA3Cw6Au\n7gO4EUyGlRQkfvU2nrnC+Nc9QQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "hackatown2018@appspot.gserviceaccount.com",
+  "client_id": "117743576729717404899",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hackatown2018%40appspot.gserviceaccount.com"
+}
